@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+remote_theme: Sylhare/Type-on-Strap
+name: Avocat Divorce Lyon
+plugins:
+  - jekyll-seo-tag
+title: Avocat Divorce Lyon
