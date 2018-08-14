@@ -18,7 +18,7 @@ theme_settings:
   footer_text: >
    Tout droits reservés. <a href="/contact/">Contactez-nous</a>.
   # Icons
-  rss: true  # Make sure you created a feed.xml with feed.xml layout
+  rss: false  # Make sure you created a feed.xml with feed.xml layout
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
@@ -26,7 +26,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github:
   google_plus:
   instagram:
   keybase:
