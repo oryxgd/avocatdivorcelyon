@@ -3,6 +3,7 @@ layout: page
 title: Combien Coûte un Divorce?
 name: combien
 description: Les couples qui divorcent peuvent dépenser beaucoup d’argent en avocat. Apprenez les principaux postes de coûts dans la fin d'un mariage.
+permalink: /combien/
 ---
 La procédure de divorce est un moment pénible pour les enfants victimes du divorce de leurs parents mais il y a aussi les frais des avocats qui s’occupent des dossiers de divorce. Concrètement, combien coûte un divorce?
 ## Différents coûts des honoraires des avocats
