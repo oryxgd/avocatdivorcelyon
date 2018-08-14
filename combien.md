@@ -8,6 +8,7 @@ permalink: /combien-coute-un-divorce/
 La procédure de divorce est un moment pénible pour les enfants victimes du divorce de leurs parents mais il y a aussi les frais des avocats qui s’occupent des dossiers de divorce. Concrètement, combien coûte un divorce?
 ## Différents coûts des honoraires des avocats
 > Demander l’aide d’un avocat lors d’une procédure de divorce est coûteux mais il s’agit d’une dépense obligatoire pour votre divorce.
+
 Les couples en train de divorcer doivent avoir un avocat pour gérer les dossiers liés à la rupture. Les dépenses varient entre 1000 et 4000€. Ce tarif est d’autant plus élevé si le dossier est traité en France métropolitaine.
 ## Qu’est-ce qui font augmenter les coûts des avocats?
 Plusieurs facteurs peuvent influencer le coût des frais d’avocat. Le dépôt de requête, les consultations, l’assistance, la préparation de dossier, la plaidoirie pour l’audience. D’autres dépenses peuvent aussi alourdir le coût d’un divorce. Elles peuvent s’agir des éventuels frais de notaire ainsi que des pensions alimentaires.
