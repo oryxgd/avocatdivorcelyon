@@ -3,6 +3,7 @@ layout: page
 title: Avocat Divorce à Lyon - Comparez les meilleurs avocats droit de la famille dans la region
 name: accueil
 description: Comparez 20 avocats divorce a Lyon. Profils detailles comprenant les prix forfaitaires, les diplomes, les tribunaux d'activite, leurs publications et recompenses
+hide: true 
 ---
 ## Ce que vous devez savoir sur un avocat divorce
 Pour commencer il faut savoir que le recours à un avocat divorce est obligatoire dans la plupart des procédures de divorce, puisqu’elles se déroulent toutes devant le tribunal de grande instance. Par contre dans les autres procédures la présence d’un avocat n’est pas obligatoire, vous pourrez par exemple agir vous même et sans avocat pour saisir le greffe du juge aux affaires familiales pour toutes les procédures relatives à l’exercice des droits parentaux.
